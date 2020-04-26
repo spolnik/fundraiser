@@ -1,0 +1,26 @@
+{
+  "name": "fundraiser",
+  "version": "1.0.0",
+  "description": "Example of Smart Contract",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spolnik/fundraiser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spolnik/fundraiser/issues"
+  },
+  "homepage": "https://github.com/spolnik/fundraiser#readme"
+}
