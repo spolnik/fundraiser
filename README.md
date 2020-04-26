@@ -1,0 +1,2 @@
+# fundraiser
+Smart Contract example
